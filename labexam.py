@@ -13,3 +13,16 @@ print(a[1:])
 print("Display the 3rd and 4th element of 1st row")
 print(a[0,2],a[0,3])
 
+OUTPUT
+
+Original Array 
+ [[1 2 3 4]
+ [5 6 7 8]
+ [9 1 2 3]
+ [4 5 7 8]]
+Display all elements excluding the first row
+[[5 6 7 8]
+ [9 1 2 3]
+ [4 5 7 8]]
+Display the 3rd and 4th element of 1st row
+3 4
